@@ -1,10 +1,4 @@
-# Collaborate Solutions
-
-🌐 Website: https://www.collaboratesolutions.com/
-
----
-
-# Let's Build Something Together 🚀
+## Let's Build Something Together 🚀
 
 Hi there! 👋
 
